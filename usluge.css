@@ -1,0 +1,40 @@
+html{
+	scroll-behavior: smooth;
+}
+
+body{
+	margin: 0px;
+	padding: 0px;
+	font-family: Calibri, sans-serif;
+}
+
+
+.header{
+	border-bottom:2px solid rgb(0, 0, 0);
+}
+#logo-holder{
+	background-color: rgb(0, 0, 0);
+}
+#logo-holder img{
+	width: 250px;	
+	height: 250px;
+}
+
+.pretraga{
+	padding-top: 50px;
+	color:rgb(255, 255, 255);
+	background-color: rgb(0, 0, 0);
+	height:100vh;
+}
+
+#usluge{
+	border: 10px solid rgb(255, 255, 255);
+	border-style: groove;
+	margin:50px;
+	padding-left:20px;
+	font-family: Sans-serif, Verdana;
+	
+}
+
+
+
